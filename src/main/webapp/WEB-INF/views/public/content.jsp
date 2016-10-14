@@ -13,6 +13,7 @@
 <section id = "pulbic_content"><br />
 	<a id="pulbic_guide_regist" ></a> <br />
 <button type="button" class="btn btn-primary" id="guide_mgmt"><a href="${context}/guide/content">가이드 북 관리</a></button>
+<button type="button" class="btn btn-primary" id="guide_mgmt2"><a href="${context}/guide/content2">구글API 테스트</a></button>
     </br>
 <button type="button" class="btn btn-primary" id="guidebook"><a href="${context}/guidebook/content">가이드 북 보기</a></button>
 	

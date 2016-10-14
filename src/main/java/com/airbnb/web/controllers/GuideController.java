@@ -14,6 +14,13 @@ public class GuideController {
 		logger.info("GuideController ! content() ");
 		return "guide:guide/content.tiles";
 	}
+	
+	@RequestMapping("/conten2t")
+	public String guideMgmt2(){
+		logger.info("GuideController ! content2() ");
+		return "guide/content2.jsp";
+	}
+	
 	@RequestMapping("/header")
 	public String guideHeader(){
 		logger.info("---- Guide_CONTROLLER HEADER PASS ----");

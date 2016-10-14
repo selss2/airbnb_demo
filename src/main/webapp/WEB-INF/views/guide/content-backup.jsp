@@ -49,9 +49,7 @@
     <input id="pac-input" class="controls" type="text"
         placeholder="추천 장소...">
     <div id="map"></div>
-    
 
-    
     <script>
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
@@ -142,7 +140,7 @@ function initMap() {
 									<div class="recommendation-form__section">
 										<div class="location-autocomplete">
 											<i class="icon icon-search h3 location-autocomplete__eyeglass"></i>
-											<input id = "search" type="text" value="" placeholder="추천 장소..." autocomplete="off">
+											<input type="text" value="" placeholder="추천 장소..." autocomplete="off">
 										</div>
 									</div>
 									<div>
@@ -252,7 +250,7 @@ function initMap() {
 									<div class="recommendation-form__section">
 										<div class="location-autocomplete">
 											<i class="icon icon-search h3 location-autocomplete__eyeglass"></i>
-											<input id="search_nature" type="text" value="" placeholder="추천 장소..." autocomplete="off">
+											<input type="text" value="" placeholder="추천 장소..." autocomplete="off">
 										</div>
 									</div>
 									<div></div>

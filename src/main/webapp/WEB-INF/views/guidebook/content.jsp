@@ -348,7 +348,7 @@
 									<a href="#"
 									class="guidebook-guest-page-footer__link-section-item">
 									<span>영화관</span></a>
-									</div>
+									</div></div>
 							</div>
 						</div>
 					</div>
