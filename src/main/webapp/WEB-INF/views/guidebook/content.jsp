@@ -23,6 +23,7 @@
 			</div>
 		</div>
 	</div>
+	
 	<div class="guidebook-new-guest-page__recommendation-container">
 		<div class="guidebook-new-guest-page__image"
 			style="background-image: url(https://a2.muscache.com/ac/pictures/2a4e63c3-c981-4cbc-9c37-80a6ab3a9d24.jpg?interpolation=lanczos-none&amp;amp;size=x_large&amp;amp;output-format=progressive-jpeg&amp;amp;output-quality=70);"></div>
@@ -52,11 +53,11 @@
 													data-reactid=".1ze0k5z3k74.3.1.1.0.0.0.3.0.2.0.$0.$0.0">
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
-															<a class="link-reset" href="/things-to-do/san-francisco/food-scene">
+															<a class="link-reset" href="#">
 															<h4 class="guidebook-nav-card__title">음식</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/food-scene" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -65,11 +66,11 @@
 												<div class="guidebook-nav-card fixed-small" style="background-image: url(https://a2.muscache.com/ac/pictures/0c1607c8-aadc-4dfd-a0df-d3eb957c1621.jpg?interpolation=lanczos-none&amp;amp;size=x_medium&amp;amp;output-format=jpg&amp;amp;output-quality=70);">
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
-															<a class="link-reset" href="/things-to-do/san-francisco/drinks-nightlife">
+															<a class="link-reset" href="#">
 															<h4 class="guidebook-nav-card__title">바와 클럽</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/drinks-nightlife" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -79,11 +80,11 @@
 													style="background-image: url(https://a2.muscache.com/ac/pictures/48f52aeb-5ffa-4de1-9603-6235a4947461.jpg?interpolation=lanczos-none&amp;amp;size=x_medium&amp;amp;output-format=jpg&amp;amp;output-quality=70);">
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
-															<a class="link-reset" href="/things-to-do/san-francisco/sightseeing">
+															<a class="link-reset" href="#">
 															<h4 class="guidebook-nav-card__title">관광</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/sightseeing" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -92,11 +93,11 @@
 												<div class="guidebook-nav-card fixed-small" style="background-image: url(https://a2.muscache.com/ac/pictures/e83b0f22-f080-49c8-8608-ca32bbb2e34f.jpg?interpolation=lanczos-none&amp;amp;size=x_medium&amp;amp;output-format=jpg&amp;amp;output-quality=70);">
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
-															<a class="link-reset" href="/things-to-do/san-francisco/parks-nature">
+															<a class="link-reset" href="#">
 															<h4 class="guidebook-nav-card__title">공원 및 자연</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/parks-nature" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -106,11 +107,11 @@
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
 															<a class="link-reset"
-																href="/things-to-do/san-francisco/arts-culture">
+																href="#">
 																<h4 class="guidebook-nav-card__title">예술과 문화</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/arts-culture" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -120,11 +121,11 @@
 													style="background-image: url(https://a2.muscache.com/ac/pictures/9d3ef11b-1c14-4539-ab6d-71f6fc18449d.jpg?interpolation=lanczos-none&amp;amp;size=x_medium&amp;amp;output-format=jpg&amp;amp;output-quality=70);">
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
-															<a class="link-reset" href="/things-to-do/san-francisco/shopping">
+															<a class="link-reset" href="#">
 																<h4 class="guidebook-nav-card__title">쇼핑</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/shopping" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -134,11 +135,11 @@
 													style="background-image: url(https://a2.muscache.com/ac/pictures/228f99a4-73bd-4de1-b044-3cd160f73d66.jpg?interpolation=lanczos-none&amp;amp;size=x_medium&amp;amp;output-format=jpg&amp;amp;output-quality=70);">
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
-															<a class="link-reset" href="/things-to-do/san-francisco/essentials">
+															<a class="link-reset" href="#">
 															<h4 class="guidebook-nav-card__title">생활 필수 서비스</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/essentials" class="guidebook-nav-card__button-overlay col-sm-12"></a>
+													<a href="#" class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
 										</div>
@@ -149,11 +150,11 @@
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
 															<a class="link-reset"
-																href="/things-to-do/san-francisco/entertainment-activities">
+																href="#">
 																<h4 class="guidebook-nav-card__title">엔터테인먼트와 액티비티</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/entertainment-activities"
+													<a href="#"
 														class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
@@ -165,11 +166,11 @@
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
 															<a class="link-reset"
-																href="/things-to-do/san-francisco/getting-around">
+																href="#">
 																<h4 class="guidebook-nav-card__title">교통편</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/getting-around"
+													<a href="#"
 														class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
@@ -181,11 +182,11 @@
 													<div style="position: absolute;">
 														<div class="guidebook-nav-card__text-wrapper">
 															<a class="link-reset"
-																href="/things-to-do/san-francisco/everything-else">
+																href="#">
 																<h4 class="guidebook-nav-card__title" >기타</h4></a>
 														</div>
 													</div>
-													<a href="/things-to-do/san-francisco/everything-else"
+													<a href="#"
 														class="guidebook-nav-card__button-overlay col-sm-12"></a>
 												</div>
 											</div>
@@ -194,6 +195,7 @@
 								</div>
 							</div>
 						</div>
+						
 						<hr class="guidebook-new-guest-page__cut-off">
 						<h3 class="guidebook-new-guest-page__best-of-best">
 							<span>추천 장소 모음</span>
@@ -346,6 +348,7 @@
 									<a href="#"
 									class="guidebook-guest-page-footer__link-section-item">
 									<span>영화관</span></a>
+									</div>
 							</div>
 						</div>
 					</div>
